@@ -2,6 +2,8 @@ package prova1;
 
 public class AccorciaStringa {
 	
+	//Classe principale
+	
 private String urlOriginale;
 	
 	public AccorciaStringa(String url) {
